@@ -1,6 +1,9 @@
-## Hi there 👋
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=25C0FF&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+MinJeong)](https://git.io/typing-svg)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinJeong-Jang)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
+![MinJeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinJeong-Jang&show_icons=true&theme=radical)
 **MinJeong-Jang/MinJeong-Jang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
